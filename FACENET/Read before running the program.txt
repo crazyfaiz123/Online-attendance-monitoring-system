@@ -1,0 +1,2 @@
+Put you images in the trian_img folder with atleat 100 photos of each face in a folder with the correct name of the person.
+After than execute data_preprocess that will create cropped image in aligned_img folder then execute train_main then face_recognition

@@ -1,0 +1,2 @@
+Put your photos in the train_img folder with 50 photos of each person with correct name of the person as folder
+Then run Train_main it will create CLF file in classifier then run FaceRecogKnn
